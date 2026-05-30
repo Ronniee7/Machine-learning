@@ -1,1 +1,1 @@
-Repository for samples demonstrating the fundamentals of machine learning
+This is practise folder for machine learning
